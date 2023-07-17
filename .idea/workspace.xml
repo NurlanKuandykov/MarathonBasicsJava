@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marathon basics Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstTask.java" afterDir="false" />
+    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="Задание с улиткой. Улитка ползет по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +22,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="3c0cf259-33bf-41d5-8e78-78dc700926f0" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,18 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTask" />
@@ -76,7 +68,50 @@
       <updated>1689394269596</updated>
       <workItem from="1689394273398" duration="503000" />
       <workItem from="1689394792085" duration="115000" />
+      <workItem from="1689405103136" duration="15000" />
+      <workItem from="1689405732402" duration="4837000" />
     </task>
+    <task id="LOCAL-00001" summary="NurikKuandykov">
+      <option name="closed" value="true" />
+      <created>1689405866738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689405866738</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ввел случайное целое число и вывел следующее за ним четное число без использования циклов и условной функции if.">
+      <option name="closed" value="true" />
+      <created>1689412165256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689412165256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="На вход подал два целых числа - цена товара в рублях и копейках. Также на вход подал целое число - количество товара, которое необходимо купить. Вывел стоимость покупки в рублях и копейках.">
+      <option name="closed" value="true" />
+      <created>1689413368390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689413368390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Длина МКАД — 109 километров. Машина стартует с нулевого километра МКАД и едет со скоростью v километров в час. На вывод подается на какой отметке кольцевой дороги остановится машина через t часов.">
+      <option name="closed" value="true" />
+      <created>1689415198975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689415198975</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Задание с улиткой. Улитка ползет по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста.">
+      <option name="closed" value="true" />
+      <created>1689415878744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689415878744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +127,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NurikKuandykov" />
+    <MESSAGE value="Ввел случайное целое число и вывел следующее за ним четное число без использования циклов и условной функции if." />
+    <MESSAGE value="На вход подал два целых числа - цена товара в рублях и копейках. Также на вход подал целое число - количество товара, которое необходимо купить. Вывел стоимость покупки в рублях и копейках." />
+    <MESSAGE value="Длина МКАД — 109 километров. Машина стартует с нулевого километра МКАД и едет со скоростью v километров в час. На какой отметке кольцевой дороги остановится машина через t часов?" />
+    <MESSAGE value="Длина МКАД — 109 километров. Машина стартует с нулевого километра МКАД и едет со скоростью v километров в час. На вывод подается на какой отметке кольцевой дороги остановится машина через t часов." />
+    <MESSAGE value="Задание с улиткой. Улитка ползёт по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста." />
+    <MESSAGE value="Задание с улиткой. Улитка ползет по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание с улиткой. Улитка ползет по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста." />
   </component>
 </project>
