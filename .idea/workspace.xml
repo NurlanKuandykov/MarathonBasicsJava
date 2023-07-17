@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="Задание с праздником. Иван решил отметить день рождения и пригласил x друзеи. На каждого гостя ему необходимо приготовить 10 грамм заварки и по n пирожному. Килограмм чая на развес стоит t рублеи, а одно пирожное - k рублеи. Дать ответ во сколько Ивану обоидется чаепитие. Гарантируется, что все числа в решении задачи окажутся целыми.">
-      <change afterPath="$PROJECT_DIR$/src/task7.java" afterDir="false" />
+    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="Задание с часами. Иван хочет по электронным часам, показывающим часы и минуты,  узнать сколько времени в минутах прошло от начала суток. На вход подаются 2 числа часы и минуты.">
+      <change afterPath="$PROJECT_DIR$/src/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <workItem from="1689394792085" duration="115000" />
       <workItem from="1689405103136" duration="15000" />
       <workItem from="1689405732402" duration="4837000" />
-      <workItem from="1689588302734" duration="468000" />
+      <workItem from="1689588302734" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="NurikKuandykov">
       <option name="closed" value="true" />
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689588520488</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задание с часами. Иван хочет по электронным часам, показывающим часы и минуты,  узнать сколько времени в минутах прошло от начала суток. На вход подаются 2 числа часы и минуты.">
+      <option name="closed" value="true" />
+      <created>1689588966603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689588966603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +156,7 @@
     <MESSAGE value="Задание с улиткой. Улитка ползет по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. Дать ответ на какой день улитка доползёт до вершины шеста." />
     <MESSAGE value="Задание с праздником. Иван решил отметить день рождения и пригласил x друзей. На каждого гостя ему необходимо приготовить 10 грамм заварки и по n пирожному. Килограмм чая на развес стоит t рублей, а одно пирожное - k рублей. Дать ответ во сколько Ивану обойдется чаепитие. Гарантируется, что все числа в решении задачи окажутся целыми." />
     <MESSAGE value="Задание с праздником. Иван решил отметить день рождения и пригласил x друзеи. На каждого гостя ему необходимо приготовить 10 грамм заварки и по n пирожному. Килограмм чая на развес стоит t рублеи, а одно пирожное - k рублеи. Дать ответ во сколько Ивану обоидется чаепитие. Гарантируется, что все числа в решении задачи окажутся целыми." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание с праздником. Иван решил отметить день рождения и пригласил x друзеи. На каждого гостя ему необходимо приготовить 10 грамм заварки и по n пирожному. Килограмм чая на развес стоит t рублеи, а одно пирожное - k рублеи. Дать ответ во сколько Ивану обоидется чаепитие. Гарантируется, что все числа в решении задачи окажутся целыми." />
+    <MESSAGE value="Задание с часами. Иван хочет по электронным часам, показывающим часы и минуты,  узнать сколько времени в минутах прошло от начала суток. На вход подаются 2 числа часы и минуты." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание с часами. Иван хочет по электронным часам, показывающим часы и минуты,  узнать сколько времени в минутах прошло от начала суток. На вход подаются 2 числа часы и минуты." />
   </component>
 </project>
