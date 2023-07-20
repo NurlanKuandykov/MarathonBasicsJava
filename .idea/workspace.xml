@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="Задание с бассеином. На вход подал размеры бассеина MxN. Человек находится на расстоянии x метров от одного из длинных бортов и y метров от одного из коротких бортов. На выходе получил минимальное расстояние, которое необходимо проплыть, чтобы выбраться из бассеина.">
-      <change afterPath="$PROJECT_DIR$/src/task12.java" afterDir="false" />
+    <list default="true" id="8b4a7001-898a-4905-a22f-0eb8c06fcf86" name="Changes" comment="Задание с котлетами. На вход подается 3 числа k,m,n. k-сколько котлет умещается в сковороде, m-время обжарки одной котлеты в минутах с одной стороны, n-количество котлет необходимо обжарить. Программа выдает наименьшее время за которое можно пожарить котлеты.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,9 @@
       <workItem from="1689588302734" duration="1404000" />
       <workItem from="1689604272314" duration="1147000" />
       <workItem from="1689656910024" duration="2024000" />
-      <workItem from="1689671584710" duration="472000" />
+      <workItem from="1689671584710" duration="2740000" />
+      <workItem from="1689770610471" duration="2216000" />
+      <workItem from="1689856248108" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="NurikKuandykov">
       <option name="closed" value="true" />
@@ -172,7 +173,103 @@
       <option name="project" value="LOCAL" />
       <updated>1689664038731</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Вводится целое число n (0 &lt; n &lt; 1000). Вывести на экран сколько в нем цифр.">
+      <option name="closed" value="true" />
+      <created>1689672192666</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689672192666</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Вводится целое число n (0 &lt; n &lt; 1000). Вывести на экран сколько в нем цифр.">
+      <option name="closed" value="true" />
+      <created>1689672219939</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1689672219939</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Количество корнеи квадратного уравнения. Вводятся три целых числа:  a, b и c - коэффициенты квадратного уравнения (a != 0). Выводится одно целое число - количество корней квадратного уравнения.">
+      <option name="closed" value="true" />
+      <created>1689673761858</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1689673761858</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Задание с квадратным уравнением (ax2+bx+c=0). Вводятся три целых числа:  a, b и c. Вывел количество корней квадратного уравнения. Если корней бесконечно много, то выводится строка &quot;inf&quot;.">
+      <option name="closed" value="true" />
+      <created>1689683770682</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1689683770682</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Задание с гипотенузой. Вводится два целых числа - длины катетов прямоугольного треугольника. На выводе находится гипотенуза этого треугольника.">
+      <option name="closed" value="true" />
+      <created>1689770741679</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1689770741679</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Координатные четверти. Вводятся 4 числа: координаты первой точки (x1, y1) и координаты второй точки (x2, y2). Программа выдает лежат ли они в одной координатной четверти эти 2 точки.">
+      <option name="closed" value="true" />
+      <created>1689770870408</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1689770870408</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Ладья. Вводятся четыре числа: координаты ладьи (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли ладья другую фигуру.">
+      <option name="closed" value="true" />
+      <created>1689771028805</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1689771028805</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Слон (шахматы). Вводятся четыре числа: координаты слона (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли слон другую фигуру.">
+      <option name="closed" value="true" />
+      <created>1689771125837</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1689771125837</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Конь (шахматы). Вводятся четыре числа: координаты коня (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли конь другую фигуру.">
+      <option name="closed" value="true" />
+      <created>1689771999471</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1689771999471</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Ферзь (шахматы). Вводятся четыре числа: координаты ферзя (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли ферзь другую фигуру.">
+      <option name="closed" value="true" />
+      <created>1689773208931</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1689773208931</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Коровы. На вход подается целое число t. Необходимо закончить фразу &quot;На лугу пасется ...&quot; одним из возможных продолжений: &quot;t коров&quot;, &quot;t корова&quot;, &quot;t коровы&quot;, правильно склоняя слова.">
+      <option name="closed" value="true" />
+      <created>1689856863146</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1689856863146</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Задание с котлетами. На вход подается 3 числа k,m,n. k-сколько котлет умещается в сковороде, m-время обжарки одной котлеты в минутах с одной стороны, n-количество котлет необходимо обжарить. Программа выдает наименьшее время за которое можно пожарить котлеты.">
+      <option name="closed" value="true" />
+      <created>1689859131518</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1689859131518</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +287,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NurikKuandykov" />
     <MESSAGE value="Ввел случайное целое число и вывел следующее за ним четное число без использования циклов и условной функции if." />
     <MESSAGE value="На вход подал два целых числа - цена товара в рублях и копейках. Также на вход подал целое число - количество товара, которое необходимо купить. Вывел стоимость покупки в рублях и копейках." />
     <MESSAGE value="Длина МКАД — 109 километров. Машина стартует с нулевого километра МКАД и едет со скоростью v километров в час. На какой отметке кольцевой дороги остановится машина через t часов?" />
@@ -205,6 +301,17 @@
     <MESSAGE value="Странные часы.Они считают время в секундах от начала суток. Будильник настроен на время срабатывания: На вход даётся 3 целых числа: h - часы, m -минуты, но будильник не сработал. x - время, которое показывают странные часы. Необходимо вывести слово &quot;Успел&quot;, если работник проснулся раньше будильника или &quot;Опоздал&quot;, если работник не смог проснуться вовремя." />
     <MESSAGE value="Задание с шоколадкой. На вход подается 2 числа (размеры шоколадки) n * m долек. Также подается число k - количество долек, которое можно отломить. Разрешается сделать один разлом по прямой между дольками. Программа выводит &quot;YES&quot; если k долек можно отломить согласно условия, в противном случае выводит &quot;NO&quot;." />
     <MESSAGE value="Задание с бассеином. На вход подал размеры бассеина MxN. Человек находится на расстоянии x метров от одного из длинных бортов и y метров от одного из коротких бортов. На выходе получил минимальное расстояние, которое необходимо проплыть, чтобы выбраться из бассеина." />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание с бассеином. На вход подал размеры бассеина MxN. Человек находится на расстоянии x метров от одного из длинных бортов и y метров от одного из коротких бортов. На выходе получил минимальное расстояние, которое необходимо проплыть, чтобы выбраться из бассеина." />
+    <MESSAGE value="Вводится целое число n (0 &lt; n &lt; 1000). Вывести на экран сколько в нем цифр." />
+    <MESSAGE value="Количество корнеи квадратного уравнения. Вводятся три целых числа:  a, b и c - коэффициенты квадратного уравнения (a != 0). Выводится одно целое число - количество корней квадратного уравнения." />
+    <MESSAGE value="Задание с квадратным уравнением (ax2+bx+c=0). Вводятся три целых числа:  a, b и c. Вывел количество корней квадратного уравнения. Если корней бесконечно много, то выводится строка &quot;inf&quot;." />
+    <MESSAGE value="Задание с гипотенузой. Вводится два целых числа - длины катетов прямоугольного треугольника. На выводе находится гипотенуза этого треугольника." />
+    <MESSAGE value="Координатные четверти. Вводятся 4 числа: координаты первой точки (x1, y1) и координаты второй точки (x2, y2). Программа выдает лежат ли они в одной координатной четверти эти 2 точки." />
+    <MESSAGE value="Ладья. Вводятся четыре числа: координаты ладьи (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли ладья другую фигуру." />
+    <MESSAGE value="Слон (шахматы). Вводятся четыре числа: координаты слона (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли слон другую фигуру." />
+    <MESSAGE value="Конь (шахматы). Вводятся четыре числа: координаты коня (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли конь другую фигуру." />
+    <MESSAGE value="Ферзь (шахматы). Вводятся четыре числа: координаты ферзя (a,b) и координаты другой фигуры (c,d). Координаты - целые числа в интервале от 1 до 8. Программа выдает бьет ли ферзь другую фигуру." />
+    <MESSAGE value="Коровы. На вход подается целое число t. Необходимо закончить фразу &quot;На лугу пасется ...&quot; одним из возможных продолжений: &quot;t коров&quot;, &quot;t корова&quot;, &quot;t коровы&quot;, правильно склоняя слова." />
+    <MESSAGE value="Задание с котлетами. На вход подается 3 числа k,m,n. k-сколько котлет умещается в сковороде, m-время обжарки одной котлеты в минутах с одной стороны, n-количество котлет необходимо обжарить. Программа выдает наименьшее время за которое можно пожарить котлеты." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание с котлетами. На вход подается 3 числа k,m,n. k-сколько котлет умещается в сковороде, m-время обжарки одной котлеты в минутах с одной стороны, n-количество котлет необходимо обжарить. Программа выдает наименьшее время за которое можно пожарить котлеты." />
   </component>
 </project>
